@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-chatbot/static/css/main.f6c22fe7.chunk.css",
+    "main.js": "/react-chatbot/static/js/main.5ccb0eff.chunk.js",
+    "main.js.map": "/react-chatbot/static/js/main.5ccb0eff.chunk.js.map",
+    "runtime-main.js": "/react-chatbot/static/js/runtime-main.f3259825.js",
+    "runtime-main.js.map": "/react-chatbot/static/js/runtime-main.f3259825.js.map",
+    "static/js/2.3db68e05.chunk.js": "/react-chatbot/static/js/2.3db68e05.chunk.js",
+    "static/js/2.3db68e05.chunk.js.map": "/react-chatbot/static/js/2.3db68e05.chunk.js.map",
+    "index.html": "/react-chatbot/index.html",
+    "static/css/main.f6c22fe7.chunk.css.map": "/react-chatbot/static/css/main.f6c22fe7.chunk.css.map",
+    "static/js/2.3db68e05.chunk.js.LICENSE.txt": "/react-chatbot/static/js/2.3db68e05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3259825.js",
+    "static/js/2.3db68e05.chunk.js",
+    "static/css/main.f6c22fe7.chunk.css",
+    "static/js/main.5ccb0eff.chunk.js"
+  ]
+}
